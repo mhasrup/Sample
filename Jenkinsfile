@@ -1,3 +1,4 @@
+@Library('mhasrup-libraries') _
 pipeline {
     agent any
     stages {
